@@ -10,6 +10,9 @@ h1 {
     padding-top: 1em;
     padding-bottom: 1em;
 }
+h1 .bold {
+    font-weight: 600;
+}
 
 h2 {
     font-size: 1.5em;
